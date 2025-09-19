@@ -33,14 +33,6 @@ Estudante apaixonada por Linguagens de Programação, Segurança da Informação
 
 ---
 
-### 📌 Projetos em destaque
-
-- [Meu Portfólio](https://github.com/SeuUsuario/portfolio)
-- [App de Tarefas com React](https://github.com/SeuUsuario/todo-app-react)
-- [Clone do Spotify](https://github.com/SeuUsuario/spotify-clone)
-
----
-
 ### ✨ Vamos conectar?
 
 
