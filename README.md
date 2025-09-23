@@ -29,7 +29,9 @@ Estudante apaixonada por Linguagens de Programação, Segurança da Informação
 
 ### 📈 GitHub Stats
 
-![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=NandaCosta22&show_icons=true&theme=radical)
+![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=NandaCosta22&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
+![Fernanda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NandaCosta22&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
