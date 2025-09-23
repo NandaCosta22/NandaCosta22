@@ -26,7 +26,15 @@ Estudante apaixonada por Linguagens de Programação, Segurança da Informação
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
+### 🚀 Projetos em Destaque
 
+- [Excel Dashboard](https://github.com/NandaCosta22/excel-dashboard)  
+  Geração de gráficos interativos a partir de planilhas Excel usando Flask e Plotly.
+
+- [Nuvem com Fernanda](https://github.com/NandaCosta22/Nuvem-com-Fernanda)  
+  Resumos sobre Cloud Computing e Segurança da Informação.
+
+---
 ### 📈 GitHub Stats
 
 ![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=NandaCosta22&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
