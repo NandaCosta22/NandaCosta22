@@ -1,62 +1,45 @@
-### Olá, eu sou Fernanda💮👋
+# Olá, eu sou a Fernanda Araújo da Costa 👋 👩‍💻
 
-
-Estudante apaixonada por Linguagens de Programação, Segurança da Informação e Arte 🎨💻
-
----
-
-### 👩‍💻 Sobre mim
-
-- 🔭 Atualmente Criando um jogo do zero em linguagem C
-- 🌱 Estudando Git, Java, Cibersecurity e AWS
-- 💬 Gosto de compartilhar conhecimento e projetos autênticos.
-- 😄 Pronomes: ela/dela
-- ⚡ Curiosidade: Gosto de desafios lógicos para estimular a mente 🧠
+### 🎓 Ciência da Computação @ Anhembi Morumbi (2º Semestre)
+Atualmente em transição de carreira e focada 100% em **Cibersegurança** e **Cloud Computing**. Estou documentando minha jornada de aprendizado e aprimorando minhas habilidades em defesa cibernética e infraestrutura em nuvem.
 
 ---
 
-### 🧰 Tecnologias que uso
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 🛡️ Certificações em Andamento
+* **Google Cybersecurity Professional Certificate (Coursera):** Desenvolvendo competências em detecção de incidentes, resposta e conformidade.
+* **AWS:** Certified Cloud Practitioner (CLF-C02) ☁️
+* **Cisco:** Certified Support Technician (CCST) Cybersecurity 🔐
 
 ---
+
+### 🛠️ Habilidades Técnicas (Hard Skills)
+Com base nos módulos concluídos da formação Google/Coursera e estudos acadêmicos:
+
+* **Segurança de Redes:** Protocolos TCP/IP, DNS, DHCP, e análise de tráfego com **Wireshark** e **Tcpdump**.
+* **Linguagens e Automação:** Desenvolvimento de scripts em **Python** para automação de tarefas de segurança e manipulação de arquivos em **C/Java**.
+* **Sistemas Operacionais:** Administração de sistemas **Linux** via linha de comando (Bash) e segurança em Windows.
+* **Ferramentas de Defesa:** Uso de **SIEM** (Chronicle/Splunk) para monitoramento de eventos e detecção de intrusões.
+* **Governança:** Aplicação dos frameworks **NIST CSF** e conceitos de confidencialidade, integridade e disponibilidade (Tríade CIA).
+
+---
+
 ### 🚀 Projetos em Destaque
-
-- [Excel Dashboard](https://github.com/NandaCosta22/excel-dashboard)  
-  Geração de gráficos interativos a partir de planilhas Excel usando Flask e Plotly.
-
-- [Nuvem com Fernanda](https://github.com/NandaCosta22/Nuvem-com-Fernanda)  
-  Resumos sobre Cloud Computing e Segurança da Informação.
-
----
-### 📈 GitHub Stats
-
-![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=NandaCosta22&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-
-![Fernanda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NandaCosta22&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+* [**Nuvem-com-Fernanda**](https://github.com/NandaCosta22/Nuvem-com-Fernanda): Repositório central de estudos em Cloud e Cybersecurity.
+* **Security-Lab:** (Em breve) Laboratórios práticos de análise de logs e hardening de sistemas.
 
 ---
 
-### ✨ Vamos conectar?
+### 📈 Estatísticas
+![Stats de Fernanda](https://github-readme-stats.vercel.app/api?username=NandaCosta22&show_icons=true&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=NandaCosta22&layout=compact&theme=tokyonight)
 
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-a-112b671a4/)
+### 📫 Vamos nos conectar?
+* **LinkedIn:** [Fernanda Araújo](https://www.linkedin.com/in/fernanda-a-112b671a4)
+* **E-mail:** nandaajobsk@outlook.com
 
-
-
-
-
-
-
-
-
-
+*"A segurança não é um produto, mas um processo."*
 
 
 
