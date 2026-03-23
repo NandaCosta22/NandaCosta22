@@ -1,6 +1,6 @@
 # Olá, eu sou a Fernanda Araújo da Costa 👋 👩‍💻
 
-### 🎓 Ciência da Computação @ Anhembi Morumbi (2º Semestre)
+### 🎓 Ciência da Computação @ Anhembi Morumbi (3º Semestre)
 Atualmente em transição de carreira e focada 100% em **Cibersegurança** e **Cloud Computing**. Estou documentando minha jornada de aprendizado e aprimorando minhas habilidades em defesa cibernética e infraestrutura em nuvem.
 
 ---
