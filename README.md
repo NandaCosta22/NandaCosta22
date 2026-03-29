@@ -31,10 +31,7 @@ Com base nos módulos concluídos da formação Google/Coursera e estudos acadê
 
 ### 📊 Estatísticas
 
-![Stats de Fernanda](https://github-readme-stats.vercel.app/api?username=NandaCosta22&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=NandaCosta22&layout=compact)
-
+![Atividade no Github](https://streak-stats.demolab.com/?user=NandaCosta22)
 
 ---
 
