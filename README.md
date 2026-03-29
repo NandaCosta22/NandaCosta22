@@ -24,7 +24,7 @@ Com base nos módulos concluídos da formação Google/Coursera e estudos acadê
 ---
 
 ### 🚀 Projetos em Destaque
-* [**Nuvem-com-Fernanda**](https://github.com/NandaCosta22/Nuvem-com-Fernanda): Repositório central de estudos em Cloud e Cybersecurity.
+* [**AWS-Com-Fernanda**](https://github.com/NandaCosta22/AWS-Com-Fernanda): Repositório central de estudos em Cloud.
 * [**IDS em Python**](https://github.com/NandaCosta22/Py-sec-ids): Sistema de Detecção de Intrusão que monitora tráfego de rede e identifica ataques como DDoS, Força bruta e Port scan.
 
 ---
