@@ -31,7 +31,8 @@ Com base nos módulos concluídos da formação Google/Coursera e estudos acadê
 
 ### 📊 Estatísticas
 
-![Atividade no Github](https://streak-stats.demolab.com/?user=NandaCosta22)
+[![GitHub Streak](https://demolab.com)](https://NandaCosta22/streak-stats)
+
 
 ---
 
